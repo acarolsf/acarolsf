@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Ana Carolina <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">iOS Developer | UX/UI Student | English Lover</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/acarolsf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/acarolsf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/acarolsf="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href = "mailto: cscarol20@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/acarolsf/" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="facebook" /></a>
+<a href="https://www.figma.com/@acarolsf"target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/figma--v2.png" alt="figma" /></a>
+<a href="https://www.instagram.com/acarolsf"target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="instagram" /></a>
+<a href="https://www.linkedin.com/in/acarolsf/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+<a href = "mailto: cscarol20@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" /></a>
 </p>
 
 
