@@ -20,5 +20,5 @@
 # <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> GitHub Stats
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarolsf&layout=compact&theme=radical&lang_count=10" /></p>
-<p align="left"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=acarolsf&count_private=true&theme=radical&show_icons=true" />
-<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=acarolsf&theme=radical" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=acarolsf&count_private=true&theme=radical&show_icons=true" /></p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=acarolsf&theme=radical" /></p>
