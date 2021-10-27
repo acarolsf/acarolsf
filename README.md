@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ana Carolina <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">iOS Developer | UX/UI Student | English Student</h3>
+<h3 align="center">iOS Developer | FullStack Designer | English Student</h3>
 <p align="center">
 <a href="https://www.facebook.com/acarolsf/" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="facebook" /></a>
 <a href="https://www.figma.com/@acarolsf"target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/figma--v2.png" alt="figma" /></a>
