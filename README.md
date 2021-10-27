@@ -12,10 +12,10 @@
 # 👩🏽‍💻 About Me
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-- 🔭 I’m currently working at Catho Online
-- 🌱 I’m currently learning Swift, Flutter and LaTeX
-- 🎓 Studying English Language, UX/UI Design
-- 💼 iOS Developer
+- 🔭  I’m currently working at Catho Online
+- 🌱  I’m currently learning Swift, Flutter and LaTeX
+- 🎓  Studying English Language, UX/UI Design
+- 💼  iOS Developer
 																																																																
 																																																																
 # <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> GitHub Stats
