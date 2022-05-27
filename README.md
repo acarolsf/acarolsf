@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ana Carolina <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">iOS Developer | Fullstack Designer | English Student</h3>
+<h3 align="center">iOS Developer | UI Designer | English Student</h3>
 
 <p align="center">
 <!-- <a href="https://www.facebook.com/acarolsf/" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="facebook" /></a> -->
@@ -15,16 +15,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Facarolsf&count_bg=%23698AD9&title_bg=%23555555&icon=linkedin.svg&icon_color=%23E7E7E7&title=linkedin&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 👩🏽‍💻 About Me 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
+ 
 - 🔭  I’m currently working at Catho Online
-- 🌱  I’m currently learning Swift, Flutter and LaTeX
+- 🌱  I’m currently learning Swift, Flutter, UX/UI and LaTeX
 - 🎓  Studying English Language, UX/UI Design
 - 💼  iOS Developer
+ 
+<img width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-
-# <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> GitHub Stats
-
-<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarolsf&layout=compact&theme=radical&lang_count=10" /></p> -->
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=acarolsf&count_private=true&theme=radical&show_icons=true" /></p>
-<!-- <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=acarolsf&theme=radical" /></p> -->
