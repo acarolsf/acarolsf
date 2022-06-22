@@ -19,5 +19,5 @@
 - 🎓  Studying English Language, UX/UI Design
 - 💼  iOS Developer
  
-<img width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<!-- <img width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
 
