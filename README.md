@@ -8,6 +8,7 @@
 </p>
  
 - 🔭  I’m currently working at Catho Online
+- 📚  I'm currently getting a Master degree in Computer Science
 - 🌱  I’m currently learning Swift, UX, UI and LaTeX
 - 🎓  Studying English, UX/UI Design
 - 💼  iOS Developer
