@@ -9,7 +9,7 @@
  
 - 🔭  I’m currently working at Catho Online
 - 📚  I'm currently getting a Master degree in Computer Science
-- 🌱  I’m currently learning Swift, UX, UI and LaTeX
+- 🌱  I’m currently learning Swift, UX, UI and Flutter
 - 🎓  Studying English, UX/UI Design
 - 💼  iOS Developer
  
