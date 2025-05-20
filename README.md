@@ -8,10 +8,10 @@
 <a href = "http://lattes.cnpq.br/1528966956220184"><img align="center" width=32px src="https://www2.ufjf.br/epicovid19/wp-content/uploads/sites/516/2020/06/lattes.png" /></a>
 </p>
  
-- 🔭  I’m currently working at Catho Online
-- 📚  I'm currently getting a Master degree in Computer Science
+- 🔭  I’m currently working at RedArbor
+- 📚  I have Master's degree in Computer Science
 - 🌱  I’m currently learning Swift, UX, UI and Flutter
-- 🎓  Studying English, UX/UI Design
+- 🎓  Studying English and UX/UI Design
 - 💼  iOS Developer
  
 <!-- <img width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
