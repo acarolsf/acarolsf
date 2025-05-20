@@ -2,7 +2,8 @@
 <h3 align="center">iOS Developer | UX/UI Designer | Language Student</h3>
 
 <p align="center">
-<a href="https://www.figma.com/@acarolsf"target="blank"><img align="center" width=28px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="figma" /></a> <a href="https://behance.net/acarolsf"><img align="center" width=48px src="https://seeklogo.com/images/B/behance-icon-logo-287E5C6D93-seeklogo.com.png" alt="behance" /></a>
+<a href="https://www.figma.com/@acarolsf"target="blank"><img align="center" width=28px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="figma" /></a>
+<!-- <a href="https://behance.net/acarolsf"><img align="center" width=48px src="https://seeklogo.com/images/B/behance-icon-logo-287E5C6D93-seeklogo.com.png" alt="behance" /></a> -->
 <a href="https://www.linkedin.com/in/acarolsf/" target="blank"><img align="center" width=48px src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
 <a href = "mailto:cscarol20@gmail.com"><img align="center" width=48px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" /></a>
 <a href = "http://lattes.cnpq.br/1528966956220184"><img align="center" width=32px src="https://www2.ufjf.br/epicovid19/wp-content/uploads/sites/516/2020/06/lattes.png" /></a>
